@@ -1,0 +1,103 @@
+<mjml>
+ <mj-head>
+  <mj-title>Ihpo Email </mj-title>
+ </mj-head>
+
+<mj-body width="600px" background-color="white">
+<mj-section>
+ <mj-column>
+ <mj-image align="left" width="85px"  src="https://i.postimg.cc/QCqjqHZX/Ihop-Logo.png" href="https://www.ihop.com/en?utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="ihop logo" />
+ </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+   <mj-image  src="https://i.postimg.cc/HL7HhS1v/Ihop.gif" href="https://ihop.cashstar.com/store/recipient?locale=en-us&utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="gifcard form"/>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+   <mj-text align="center" font-weight="bold" color="#0071b9" font-size="25px"> BRING THE YUM TO BACK‑TO‑SCHOOL</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+   <mj-text line-height="20px" align="center"> Whether you’re treating family, a favorite teacher, or the carpool squad, IHOP is always a great choice! For a limited time, get a $5 bonus card with purchase of a $30 gift card.</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+   <mj-button background-color="#ee252b" font-weight="bold" border-radius="20px" href="https://ihop.cashstar.com/store/recipient?locale=en-us&utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard">Buy Now </mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+ <mj-column>
+  <mj-image src="https://i.postimg.cc/fW7Wsgt6/Ihop-Main.jpg" href="https://restaurants.ihop.com/en-us/?utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="find your ihop" />
+ </mj-column>
+</mj-section>
+
+<mj-section>
+<mj-column>
+ <mj-text line-height="20px" align="center"> At IHOP, the pancake party doesn’t stop with all-you-can-eat buttermilk pancakes, free with select breakfast combos. Stop in today, this offer won’t last long!</mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section>
+ <mj-column>
+  <mj-button background-color="#ee252b" font-weight="bold" border-radius="20px" href="https://restaurants.ihop.com/en-us/?utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard"> FIND MY IHOP </mj-button>
+ </mj-column>
+</mj-section>
+
+<mj-section>
+ <mj-column>
+  <mj-text align="center" font-weight="bold" color="black"> Hungry for just pancakes? Get AYCEP for only $5!</mj-text>
+ </mj-column>
+</mj-section>
+
+<mj-section background-color="#0071b9">
+ <mj-column >
+  <mj-text color="white" font-size="25px">Keep pancakes in your pocket.</mj-text>
+  <mj-text color="white" font-size="16px"> Not as messy as it sounds. Download the
+IHOP® app to get your favorites on the go. </mj-text>
+</mj-column>
+</mj-section>
+
+<mj-section background-color="#0071b9" >
+<mj-column width="200px" >
+<mj-image width="135px" src="https://i.postimg.cc/jjGqxphr/App-Store.png" href="https://apps.apple.com/us/app/ihop/id572284095?utm_campaign=20240816_Enterprise_GiftCard&utm_medium=email&utm_source=sfmc" alt="apple app" /> 
+</mj-column>
+<mj-column width="200px" >
+<mj-image width="135px" src="https://i.postimg.cc/VvwYMXTG/Google-Play.png" href="https://play.google.com/store/apps/details?id=com.olo.ihop&utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="google play app" />
+</mj-column>
+</mj-section>
+
+
+<mj-section>
+ <mj-group width="350px">
+ <mj-column >
+  <mj-image  src="https://i.postimg.cc/QCqjqHZX/Ihop-Logo.png" href="https://www.ihop.com/en?utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="ihop logo" />
+ </mj-column>
+
+ <mj-column>
+  <mj-image  src="https://i.postimg.cc/FR3r7TPk/Facebook-Logo.png" href="https://www.facebook.com/IHOP?utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="facebook logo" />
+ </mj-column>
+
+ <mj-column>
+  <mj-image   src="https://i.postimg.cc/Nfpg99xD/Instagram-Logo.png" href="https://www.instagram.com/ihop/?utm_source=sfmc&utm_medium=email&utm_campaign=20240816_Enterprise_GiftCard" alt="instagram logo" />
+ </mj-column>
+
+ <mj-column>
+  <mj-image   src="https://i.postimg.cc/ZKTb5F60/You-Tube-Logo.png" href="https://www.youtube.com/user/IHOP" alt="youtube logo" />
+ </mj-column>
+</mj-group>
+</mj-section>
+
+
+
+
+</mj-body>
+</mjml>
